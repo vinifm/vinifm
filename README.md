@@ -10,7 +10,7 @@ I'm Vinícius - or Vini, for short! I first started pursuing education in cinema
 #### Personal interests
 - 🧘 Yoga and meditation.
 - 🍳 Cooking (veggie stuff 🌿).
-- 📸 Photography (check my [VSCO](https://vsco.com/vifme/gallery)).
+- 📸 Photography.
 
 ## 42 curriculum
 | name | subject | description |
