@@ -21,4 +21,4 @@ I'm Vinícius - or Vini, for short! I first started pursuing education in cinema
 | [pipex](https://github.com/vinifm/42_pipex) | Introduction to Unix processes in C. | Recreating UNIX's pipe operator behaviour. |
 | [push_swap](https://github.com/vinifm/42_push_swap/) | Sorting algorithms and stacks. | Sorts data on a stack, with a limited set of instructions, using the lowest possible number of actions. |
 | [minishell](https://github.com/vinifm/42_minishell) | Parsing, processes and file descriptors. | A simple version of a bash shell. Support to pipes, redirections, variable expansions, environment variables, built-in commands, and command execution via `$PATH` or absolute path |
-| [Philosophers](https://github.com/vinifm/42_philosophers/tree/master) | Threads and mutexes. | A C multithreading program inspired by Dijkstra's dining philosopher's problem. |
+| [philosophers](https://github.com/vinifm/42_philosophers/tree/master) | Threads and mutexes. | A C multithreading program inspired by Dijkstra's dining philosopher's problem. |
