@@ -28,4 +28,4 @@ I'm Vinícius - or Vini, for short! I first started pursuing education in cinema
 | [push_swap](https://github.com/vinifm/42_push_swap/) | Sorting algorithms and stacks. | Sorts data on a stack, with a limited set of instructions, using the lowest possible number of actions. |
 | [minishell](https://github.com/vinifm/42_minishell) | Parsing, processes and file descriptors. | A simple version of a bash shell. Support to pipes, redirections, variable expansions, environment variables, built-in commands, and command execution via `$PATH` or absolute path |
 | [philosophers](https://github.com/vinifm/42_philosophers/tree/master) | Threads and mutexes. | A C multithreading program inspired by Dijkstra's dining philosopher's problem. |
-| [cpp](https://github.com/vinifm/42_cpp) | Object-oriented programming | 9 lists of practical exercises with a hands-on approach to the fundamentals of OOP in C++ |
+| [cpp](https://github.com/vinifm/42_cpp) | Object-oriented programming | 9 lists of practical exercises with a hands-on approach to the fundamentals of OOP in C++. |
