@@ -12,6 +12,10 @@ I'm Vinícius - or Vini, for short! I first started pursuing education in cinema
 - 🍳 Cooking (veggie stuff 🌿).
 - 📸 Photography.
 
+## Currently working on...
+- [Zuri](https://github.com/zuri-app/): a makeup and social app focused on darker-skin representation.
+- [ft_transcendence](https://github.com/0xEDU/ft_transcendence): recreating the pong game from scratch!
+
 ## Data science projects
 | name | subjects | description |
 | --- | --- | --- |
